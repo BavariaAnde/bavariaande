@@ -6,18 +6,17 @@ Ich bin Andreas Göttl, ein leidenschaftlicher Systemadministrator mit Interesse
 
 ## Kontakt & Weitere Infos
 
-* 📧 Email: [andi.g.1304@gmail.com](andi.g.1304@gmail.com)
+* 📧 Email: [andi.g.1304@gmail.com](mailto:andi.g.1304@gmail.com)
 * 🔗 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/andreas-g%C3%B6ttl-23b206258/)
 * 🌐 Persönlicher Blog & CV: [blog.andreas-goettl.de](https://blog.andreas-goettl.de) – hier findest du meine Blogeinträge und meinen Lebenslauf.
 
 ## Statistiken
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavariaande\&show_icons=true\&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavariaande)](https://github.com/bavariaande/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavariaande&show_icons=true&theme=radical)
 
 ## Beliebte Sprachen
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bavariaande\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bavariaande&layout=compact&theme=radical)
 
 ## Danke, dass du vorbeischaust! 😊
 
