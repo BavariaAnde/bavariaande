@@ -10,14 +10,6 @@ Ich bin Andreas Göttl, ein leidenschaftlicher Systemadministrator mit Interesse
 * 🔗 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/andreas-g%C3%B6ttl-23b206258/)
 * 🌐 Persönlicher Blog & CV: [blog.andreas-goettl.de](https://blog.andreas-goettl.de) – hier findest du meine Blogeinträge und meinen Lebenslauf.
 
-## Statistiken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavariaande&show_icons=true&theme=radical)
-
-## Beliebte Sprachen
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bavariaande&layout=compact&theme=radical)
-
 ## Danke, dass du vorbeischaust! 😊
 
 Fühle dich frei, meine Repositories zu erkunden und mich zu kontaktieren, falls du Fragen hast oder an einer Zusammenarbeit interessiert bist.
