@@ -1,16 +1,24 @@
-## Hi there 👋
+# Willkommen auf meinem GitHub-Profil! 👋
 
-<!--
-**BavariaAnde/bavariaande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
 
-Here are some ideas to get you started:
+Ich bin Andreas Göttl, ein leidenschaftlicher Systemadministrator mit Interesse an IT-Themen. In meiner Freizeit beschäftige ich mich gerne mit Fußball und erweitere mein HomeLab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kontakt & Weitere Infos
+
+* 📧 Email: [andi.g.1304@gmail.com](andi.g.1304@gmail.com)
+* 🔗 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/andreas-g%C3%B6ttl-23b206258/)
+* 🌐 Persönlicher Blog & CV: [blog.andreas-goettl.de](https://blog.andreas-goettl.de) – hier findest du meine Blogeinträge und meinen Lebenslauf.
+
+## Statistiken
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bavariaande\&show_icons=true\&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavariaande)](https://github.com/bavariaande/github-readme-stats)
+
+## Beliebte Sprachen
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bavariaande\&layout=compact\&theme=radical)
+
+## Danke, dass du vorbeischaust! 😊
+
+Fühle dich frei, meine Repositories zu erkunden und mich zu kontaktieren, falls du Fragen hast oder an einer Zusammenarbeit interessiert bist.
